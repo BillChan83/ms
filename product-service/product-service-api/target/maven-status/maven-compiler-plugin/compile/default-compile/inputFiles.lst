@@ -1,0 +1,3 @@
+/root/ms/simple-microservice-dev3/product-service/product-service-api/src/main/java/com/ctnrs/product/api/model/Product.java
+/root/ms/simple-microservice-dev3/product-service/product-service-api/src/main/java/com/ctnrs/product/api/constant/ProductServiceNameConstant.java
+/root/ms/simple-microservice-dev3/product-service/product-service-api/src/main/java/com/ctnrs/product/api/client/ProductServiceClient.java
